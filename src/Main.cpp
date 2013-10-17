@@ -55,8 +55,8 @@ d4rk@xbmc.org
 
 #define ADDON_ID "visualization.projectm"
 
-#include <xbmc/xbmc_vis_dll.h>
-#include <xbmc/xbmc_addon_cpp_dll.h>
+#include <fymc/xbmc_vis_dll.h>
+#include <fymc/xbmc_addon_cpp_dll.h>
 #include <GL/glew.h>
 #include "projectM.hpp"
 #include <string>
